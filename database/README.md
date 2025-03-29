@@ -1,4 +1,4 @@
-
+qn
 1. sql is a stacture query language 
 2. database ar samogrik design k database a sckema bola hoi aita na thakle database ar design main design korte parbo na
 3. primary key hole unique field jar madhome kono field k unique vabe idinfied  korte pari ar forgien key hole kono akta table ar primary key jodi onno table a use hoi tahole ta forgien key
